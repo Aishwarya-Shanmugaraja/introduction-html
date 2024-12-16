@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+    <head>
+	    
+		   <style>
+		 
+		     h2{
+		      color:red;
+		    }
+		   .data{
+		     color:#7FFF00;
+		   }
+		   #user{
+		      color:green;
+			 }
+			 h2,h3,h5{
+			      color:orange;
+				  
+			 }
+			 *{
+			    color:darkgreen;
+			}
+			<div> h1{
+			     color:red}
+		 </style>
+	</head>
+	<body>
+	   </div>
+	    <h1>aishu</h1>
+		<h1 class="data">sandhiya</h1>
+		<h1>aish</h1>
+		<h2>AISHU</h2>
+		<h3>archu</h3>
+		<h4 id="user">ilakkya</h4>
+		<h5>singam</h5>
+		<h6>puli</h6>
+        <p>briyani world</p>
+		<div style="color:purple">
+		<p>oii<span style="color:purple">mamooty</span>...</p>
+		<b>text bold</b>
+		<i>italic</i>
+		<u>under line</u>
+		<small>text small</small>
+		<ins> text inserted</ins>
+		<del>texted deleted</del>
+		<sub>h2o</sub>
+		<sup>hey 4</sup>
+		<mark>text mark</mark>
+		<strong>text strong</strong>
+		<ol>
+		  <li>aishu</li>
+		  <li>vcet</li>
+		  <li>ece</li>
+		  <li>wonder</li>
+		</ol>
+		</div>
+		<ol type="a">
+		  <li>html</li>
+		  <li>aishu</li>
+		  <li>vcet</li>
+		  <li>ece</li>
+		</ol>
+		<ul type="disk">
+		  <li>aishu</li>
+		  <li>vcet</li>
+		  <li>ece</li>
+		  <li>html</li>
+		</ul>
+		<dl>
+		  <dt>what is your name?</dt>
+		  <dd>my name is aishu</dd>
+		</dl>
+	    <table border=1>
+		  <th colspan=2>s.no item</th>
+		  <th>rupees</th>
+		  <th>quantity</th>
+		<tr>
+          <td>1</td>
+		  <td rowspan=2>briyani</td>
+		  <td>80</td>
+		  <td>3</td>
+		</tr>
+		<tr>
+		  <td>2</td>
+		  <td>90</td>
+		  <td>2</td>
+		</tr>
+		<tr>
+		  <td>3</td>
+		  <td>parotta</td>
+		  <td>10</td>
+		  <td>6</td>
+		</tr>
+	</table>
+          <h1>&#174;</h1>
+	<iframe src="https://www.google.com/search?q=wikipedia&oq=wiki&gs_lcrp=EgZjaHJvbWUqDwgBEAAYQxixAxiABBiKBTIRCAAQRRg5GEMYsQMYgAQYigUyDwgBEAAYQxixAxiABBiKBTIPCAIQABhDGLEDGIAEGIoFMg8IAxAAGEMYsQMYgAQYigUyDAgEEAAYQxiABBiKBTIKCAUQABixAxiABDIVCAYQLhhDGMcBGLEDGNEDGIAEGIoFMgYIBxAFGEDSAQgyODgxajBqN6gCB7ACAQ&sourceid=chrome&ie=UTF-8"></iframe>
+	<a href=" ">Home</a>
+	<a href="#">About</a>
+	<a href="index1.html"target="_blank">document</a>
+	<a href="#data">move</a>
+	<a href="https://www.google.com/search?q=vcet&oq=vcet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzMTdqMGo3qAIHsAIB&sourceid=chrome&ie=UTF-8">login</a>
+	<img src="./flower.png" width=400 height=400/>
+	<br>
+	<form action=" ">
+	      <input type="text"placeholder="enter the name"name="user"/>
+		  <br>
+		  <input type="text"placeholder="enter the roll no"name="user"/>
+		  <br>
+		  <input type="text"placeholder="enter your dept"name="user"/>
+		  <br>
+		  <input type="text"id="fname">
+		  <br>
+		  <center><b><u>APPLICATION FORM<b></u>
+		  <br>
+		  <label for="fname">first name:</label>
+		  <input type="text"placeholder=" "/>
+		  <label for="fname">second name:</label>
+		  <input type="text"placeholder=" "/>
+		  <br>
+		  DOB<input type="date"/>
+		  <br>
+		  enter your dept:<input type="text"placeholder="dept"name="user"/>
+		  <br>
+		  enter your roll no:<input type="text"placeholder="roll no"name="user"/>
+		  <br>
+		  enter your Father name:<input type="text"placeholder="name"name="user"/>
+		  <br>
+		  enter your Mother name:<input type="text"placeholder="name"name="user"/>
+		  <br>
+		  enter your no: <input type="number"placeholder="number"name="user"/>
+		 <br>
+		 enter your mail:<input type="email"placeholder=" mail"name="user"/>
+		 <br>
+		  Gender:
+		  
+		     <input type="radio"name="" id="male">
+		     <label for="male">male</label>
+		 
+		    <input type="radio"name="" id="female">
+		    <label for="female">female</label>
+			<br>
+			place:<input type="text"placeholder="place"name="user"/>
+			<select>
+		     <option></option>
+		     <option value=1>Madurai</option>
+		     <option value=2>Chennai</option>
+		     <option value=3>coimbatore</option>
+			 <br>
+		  </select>
+		  <p>attach your photo</p>
+		  <textarea rows=5 cols=10></textarea>
+		  <br>
+		   <p>attach your aadhar photo</p>
+		  <textarea rows=5 cols=10></textarea>
+		  <br>
+		  <table border=1>
+		    <th>s.no</th>
+			<th>subjects</th>
+		    <th>marks</th>
+			<th>percentage</th>
+			<tr>
+			 <td>1</td>
+			 <td>Tamil</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<tr>
+			 <td>2</td>
+			 <td>English</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<tr>
+			 <td>3</td>
+			 <td>Maths</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<tr>
+			 <td>4</td>
+			 <td>Physics</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<tr>
+			 <td>5</td>
+			 <td>Chemistry</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<tr>
+			 <td>6</td>
+			 <td>computer science</td>
+			 <td>96</td>
+			 <td>90%</td>
+			</tr>
+			<input type="submit"/>
+	
+	</form>	  
+	</center>	  
+	</body>
+</html>
+	
