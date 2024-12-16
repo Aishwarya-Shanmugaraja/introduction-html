@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<title>web devolop</title>
+	</head>
+	<body bgcolor="green">
+	
+	<h1><center><b>devolopment</h1></center></b>
+	<p>internet using all process in online </p></br>
+	<ol type=1>
+	<li>html</li>
+	<li>c</li>
+	<li>c++</li>
+	<li>java</li>
+	<li>python</li>
+	<ul type="circle">
+	<li>vb.net</li>
+	<li>css</li>
+	<li>sql</li>
+	<table>
+	<th>s.no</th>
+	<th>frontend</th>
+	<th>backend</th>
+	<tr>
+	<td>1</td>
+	<td>html
+	
+</body>
+ 
